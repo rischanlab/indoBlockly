@@ -1,0 +1,109 @@
+        .dragDiv
+        {
+     /* width: 0%;
+      height: 0%;
+			background: #000 url(../gambar/batik-bg.jpg);
+        	background-color:#EFF7FF;
+            border:1px solid #96C2F1;
+            position:absolute;*/
+            left:130px;
+            top:50px;
+        	}
+        .dragDiv h5
+        {
+        	/*background-color:#B2D3F5;*/
+			background: url(../gambar/batik-bg.jpg) repeat-x;
+			color:white;
+        	padding:10px;
+            margin:1px;
+			font-size:20px;
+        	}
+        .dragDiv div
+        {
+        	padding:5px;
+        	margin-bottom:10px;
+            }
+			
+		.dragDiv2
+        {
+        	background-color:;
+            border:0px solid /*#9BDF70*/;
+        	width:350px;
+        	position:absolute;
+            left:1020.0px;
+            top:30px;
+        	}
+        .dragDiv2 h5
+        {
+        	background-color:;
+			color:white;
+        	padding:0px;
+            margin:5px;
+            }
+        .dragDiv2 div
+        {
+        	padding:5px;
+        	margin-bottom:0px;
+            }	
+			
+        .dragDiv3
+        {
+
+        	}
+        .dragDiv3 h5
+        {
+        	/*background-color:#C2ECA7;*/
+			background: url(../gambar/batik3.jpg) repeat-x;
+        	color:white;
+			padding:5px;
+            margin:1px;
+            }
+        .dragDiv3 div
+        {
+        	padding:5px;
+        	margin-bottom:10px;
+            }			
+		.dragDiv4
+        {
+        	/*background-color:#F0FBEB;*/
+            border:1px solid green;
+        	width:91px;
+			height:103px;
+        	position:absolute;
+            left:10px;
+            top:150px;
+        	}
+        .dragDiv4 h5
+        {
+        	background: url(../gambar/batik1.jpg) repeat-x;
+			color:white;
+			padding:1px;
+            margin:1px;
+            }
+        .dragDiv4 div
+        {
+        	padding:5px;
+        	margin-bottom:10px;
+            }	
+        .dragDiv5
+        {
+        	background-color:black;
+            border:0px solid #9BDF70;
+        	width:1365px;
+			height:23px;
+        	position:absolute;
+            left:0px;
+            top:0px;
+        	}
+        .dragDiv5 h5
+        {
+        	/*background-color:#C2ECA7;
+        	padding:0px;*/
+            margin:1px;
+            }
+        .dragDiv5 div
+        {
+        	padding:1px;
+        	margin-bottom:10px;
+            }
+			
