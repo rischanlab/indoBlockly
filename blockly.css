@@ -22,7 +22,7 @@
  * @author fraser@google.com (Neil Fraser)
  */
 .blocklySvg {
-  background: white top url(puzzle.png) no-repeat;
+  background: white top url(layout/images/back-frame.png) no-repeat;
 }
 .blocklyDraggable {
   /* Hotspot coordinates are baked into the CUR file, but they are still

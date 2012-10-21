@@ -57,7 +57,7 @@ custom_peta.warna_saatdiblok = "blue";
 
 custom_peta.warna_garispemisah = "#c6c6c6";
 
-custom_peta.warna_backgroundMAP = "url('../code/layout/gambar/batk.png')";
+custom_peta.warna_backgroundMAP = "url('../../layout/images/content-bg.jpg')";
 
 custom_peta.posisiBackgroundX = -200;
 

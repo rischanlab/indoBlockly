@@ -1,0 +1,3 @@
+- index.php
+- menubar-popup.php ,menu bar untuk index pop up awal
+- script-dir_popup.php ,menyimpan alamat script yang digunakan

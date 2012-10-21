@@ -1,0 +1,134 @@
+body {
+margin: 0px 0px 0px 0px;
+background: black top url(../icon/)no-repeat;
+}
+
+a {
+cursor: pointer;
+}
+
+a:hover{
+}
+a.disable {
+	  border-top: 1px solid #aaa !important;
+      border-left: 1px solid #aaa !important;
+      border-right: 1px solid white !important;
+      border-bottom: 1px solid white !important;
+	  color: white;
+    }
+.bg-source {
+	padding:8px;
+	width:100.1%;
+	height:100%;
+	border: none;
+	background-color: white;
+}
+
+textarea {
+      width: 100%;
+      height: 100%;
+      border: none;
+      resize: none;
+}
+
+    h1 {
+      font-weight: normal;
+      font-size: 140%;
+    }
+    td {
+      vertical-align: top;
+    }
+
+    /* Tabs */
+    #tabRow>td {
+      border: 1px solid #ccc;
+    }
+    td.tabon {
+	font-weight:;
+	color:;
+      border-bottom-color: #ddd !important;
+      background: #96C2F1;
+      padding: 5px 19px;
+	  border-top: 1px solid #aaa !important;
+      border-left: 1px solid #aaa !important;
+      border-right: 1px solid white !important;
+      border-bottom: 1px solid white !important;
+    }
+    td.taboff {
+      cursor: pointer;
+      padding: 5px 19px;
+	  background: #f0f0f0;
+      border-right: 1px solid #aaa;
+    }
+    td.taboff:hover {
+      background-color: #eee;
+    }
+    td.tabmin {
+      border-top-style: none !important;
+      border-left-style: none !important;
+      border-right-style: none !important;
+    }
+    td.tabmax {
+      border-top-style: none !important;
+      border-left-style: none !important;
+      border-right-style: none !important;
+      width: 99%;
+      text-align: right;
+    }
+
+    table {
+      border-collapse: collapse;
+      margin: 0;
+      padding: 0;
+      border: none;
+    }
+    td {
+      padding: 0;
+    }
+    pre,
+    #content_xml {
+      width: 100.1%;
+      height: 100%;
+      padding: 0;
+      margin: 0;
+      border-top-style: none;
+      overflow: none;
+      display: none;
+    }
+    #textarea_xml {
+      width: 100%;
+      height: 100%;
+      border: none;
+      resize: none;
+	  overflow: scroll;
+    }
+    iframe {
+      width: 99.5%;
+      height: 99%;
+    }
+    button {
+      padding: 1px 1px 1px;
+	  margin: 1px 1px 1px;
+    }	
+    button.launch {
+      border: 1px solid transparent;
+    }
+    button.disable {
+	  border-top: 1px solid #aaa !important;
+      border-left: 1px solid #aaa !important;
+      border-right: 1px solid white !important;
+      border-bottom: 1px solid white !important;
+    }	
+    button:active {
+	  border-top: 1px solid #aaa !important;
+      border-left: 1px solid #aaa !important;
+      border-right: 1px solid white !important;
+      border-bottom: 1px solid white !important;
+    }
+    button:hover {
+	  border-top: 1px solid white;
+      border-left: 1px solid white;
+      border-right: 1px solid #aaa;
+      border-bottom: 1px solid #aaa;
+	  color:black; background: #F0F0F0/*url(blank_over.gif)*/ no-repeat;
+    }
